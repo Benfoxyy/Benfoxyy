@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Benfoxyy
+- 👋 Hi, I’m Benyamin
 - 👀 I’m interested in codding and exercising
 - 🌱 I’m currently learning django
 - 📫 How to reach me : "benyfoxy.exe" on instagram 
