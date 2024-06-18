@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I try to coding & exercise EVERYDAY!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://instagram.com/benyfoxy.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benyfoxy.exe" height="30" width="40" /></a>
 <a href="https://discord.gg/913067810945638420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="913067810945638420" height="30" width="40" /></a>
