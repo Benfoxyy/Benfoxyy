@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benyamin</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
-- 🌱 I’m currently learning **Postgresql**
+- 🌱 I’m currently learning **MySQP**
 
 - 💬 Ask me about **python, django, backend,**
 
