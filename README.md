@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Benyamin</h1>
-<h3 align="center">A passionate django backend developer from Iran</h3>
+<h3 align="center">🚀 Django Backend Developer | Passionate About Building Scalable Web Applications
+
+A 17-year-old Django backend developer. I started programming at 13, and since then, I've built multiple real-world projects, which you can find in here. My goal is to continuously improve, contribute to impactful projects, and become a valuable developer in my field.
+
+I love connecting with like-minded people, sharing knowledge, and learning from others. Feel free to reach out I'm always open to discussions about tech, Django, or software development!</h3>
 
 - 🌱 I’m currently learning **FastAPI**
 
