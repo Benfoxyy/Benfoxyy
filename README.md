@@ -7,11 +7,11 @@ I love connecting with like-minded people, sharing knowledge, and learning from 
 
 - 🌱 I’m currently learning **FastAPI**
 
-- 💬 Ask me about **python, django, backend**
+- 💬 Ask me about **Back-end , Python , Django**
 
 - 📫 How to reach me **benxfoxy@gmail.com**
 
-- ⚡ Fun fact **I'm coding & exercising EVERYDAY!**
+- ⚡ Fun fact **I'm code & practice EVERYDAY!**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
