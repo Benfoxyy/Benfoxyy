@@ -48,4 +48,5 @@ My Protofilo : https://benfoxyy.github.io/Resume/
 <a href="https://www.gunicorn.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-icon.svg" alt="gunicorn" width="40" height="40"/> </a>
 <a href="https://www.pytest.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="40" height="40"/> </a>
 <a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit" width="50" height="35"> </a>
+<a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="https://dl.min.io/logo/Minio_logo_light/Minio_logo_light.svg" alt="Minio" width="50" height="50"/> </a>
 </p>
