@@ -40,5 +40,5 @@ My Protofilo : https://benfoxyy.github.io/Resume/
 
 <h1 align="left">Languages and Tools:</h1>
 <div>
-  <img src="https://skillicons.dev/icons?i=python,django,docker,js,jquery,html,css,markdown,git,linux,redis,postman,nginx,minio">
+  <img src="https://skillicons.dev/icons?i=python,django,docker,js,jquery,html,css,markdown,git,github,gitlab,linux,redis,postman,nginx,minio">
 </div>
