@@ -16,8 +16,6 @@ My Protofilo : https://benfoxyy.github.io/Resume/
 
 - 📫 How to reach me **benxfoxy@gmail.com**
 
-- ⚡ Fun fact **I'm code & practice EVERYDAY!**
-
 <h1 align="left">Contact with me:</h1>
 <p align="left">
   <a href="https://www.linkedin.com/in/benyaminmedghalchi/">
