@@ -10,7 +10,7 @@ My Protofilo : https://benfoxyy.github.io/Resume/
 
 
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 💬 Ask me about **Back-end , Python , Django**
 
