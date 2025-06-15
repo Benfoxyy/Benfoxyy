@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Benyamin</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Benyamin%20Medghalchi&fontSize=40&animation=scaleIn&fontAlignY=38&desc=%20BackEnd%20Developer%20&descAlignY=51&descAlign=62)
+
 <h3 align="center">🚀 Django Backend Developer | Passionate About Building Scalable Web Applications
 
 A 17-year-old Django backend developer. I started programming at 13, and since then, I've built multiple real-world projects, which you can find in here. My goal is to continuously improve, contribute to impactful projects, and become a valuable developer in my field.
@@ -41,3 +42,6 @@ I love connecting with like-minded people, sharing knowledge, and learning from 
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,docker,kubernetes,postgres,js,jquery,html,css,markdown,git,github,gitlab,linux,redis,postman,nginx">
 </div>
 
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
