@@ -35,6 +35,8 @@ I love connecting with like-minded people, sharing knowledge, and learning from 
 
 <h1 align="left">LeetCode:</h1>
 
+![](https://github-readme-stats.vercel.app/api?username=Benfoxyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Benyamin_Medghalchi)
 
 <h1 align="left">Languages and Tools:</h1>
