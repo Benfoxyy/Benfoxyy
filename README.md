@@ -41,7 +41,7 @@ I love connecting with like-minded people, sharing knowledge, and learning from 
 
 <h1 align="left">Languages and Tools:</h1>
 <div>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,docker,kubernetes,postgres,js,jquery,html,css,markdown,git,github,gitlab,linux,redis,postman,nginx,cloudflare,sentry">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,docker,kubernetes,postgres,js,jquery,html,css,markdown,git,github,gitlab,githubactions,linux,redis,postman,nginx,cloudflare,sentry">
 </div>
 
 <p align="left">
