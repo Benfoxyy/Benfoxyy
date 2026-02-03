@@ -32,16 +32,9 @@ I love connecting with like-minded people, sharing knowledge, and learning from 
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
-
-<h1 align="left">LeetCode:</h1>
-
-![](https://github-readme-stats.vercel.app/api?username=Benfoxyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Benyamin_Medghalchi)
-
 <h1 align="left">Languages and Tools:</h1>
 <div>
-  <img src="https://skillicons.dev/icons?i=python,rust,django,fastapi,docker,kubernetes,postgres,js,jquery,html,css,markdown,git,github,gitlab,githubactions,linux,redis,postman,nginx,cloudflare,sentry">
+  <img src="https://skillicons.dev/icons?i=python,rust,django,fastapi,docker,kubernetes,postgres,mongodb,js,jquery,html,css,markdown,git,github,gitlab,githubactions,linux,redis,postman,nginx,cloudflare,sentry">
 </div>
 
 <p align="left">
